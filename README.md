@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve Balçok</h1>
 <h3 align="center">A passionate junior frontend developer from Germany</h3>
 
-- 👨‍💻 All of my projects are available on [my profile](my profile)
+- 👨‍💻 All of my projects are available on my profile
 
 - 📫 How to reach me: **merve_balcok@hotmail.com**
 
